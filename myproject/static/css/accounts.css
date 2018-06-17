@@ -1,0 +1,21 @@
+body {
+  background-image: url(../img/congruent_pentagon.png);
+}
+
+.logo {
+  font-family: 'Peralta', cursive;
+}
+
+.logo a {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
+
+.my-4 {
+    font-size: 80px;
+    font-family: 'Amatic SC', cursive;
+}

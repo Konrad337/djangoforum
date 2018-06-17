@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-size: 50px;
+    font-family: 'Amatic SC', cursive;
+}
+
+.table {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.thead-inverse {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.nav-item {
+    font-size: 30px;
+    font-family: 'Bungee Inline', cursive;
+}
